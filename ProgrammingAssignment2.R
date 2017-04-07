@@ -60,3 +60,4 @@ cacheSolve <- function(x, ...) {
   inv
 }
   
+$ git show
